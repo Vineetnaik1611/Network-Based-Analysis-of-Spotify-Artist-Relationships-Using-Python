@@ -1,18 +1,18 @@
 # Spotify-Artist-Network-analysis
 A social network analysis of music artists using Spotify API data to build a personalized recommendation engine based on network centrality metrics.
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes artist relationships using network graph theory to power music recommendations. The analysis examines key network properties including degree centrality, closeness centrality, and betweenness centrality to identify influential artists and optimize recommendation algorithms.
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Network Structure**: 84 nodes with 7 connected components and edge density of 0.0599
 - **Most Connected Artist**: Camilla Cabello (Highest Degree Centrality: 0.157)
 - **Most Central Artist**: Meghan Trainor (Highest Closeness & Betweenness Centrality)
 - **Isolated Artist**: Michael Jackson (Zero connections in the network)
 
-## 📈 Centrality Metrics
+## Centrality Metrics
 
 ### Top 5 Closeness Centrality:
 1. Meghan Trainor (0.319)
@@ -28,14 +28,14 @@ This project analyzes artist relationships using network graph theory to power m
 4. Maroon 5 (0.145)
 5. OneRepublic (0.122)
 
-## 🎯 Business Applications
+## Business Applications
 
 - **Personalized Recommendations**: Leverage network centrality to suggest relevant artists
 - **User Retention**: Improve engagement through accurate music discovery
 - **Competitive Advantage**: Enhanced recommendation engine capabilities
 - **Revenue Growth**: Increased subscriptions through better user experience
 
-## 📁 Contents
+## Contents
 
 - Network graph visualization
 - Node statistics and centrality analysis
